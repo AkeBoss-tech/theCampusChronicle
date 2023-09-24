@@ -13,6 +13,8 @@ permalink: "/news.html"
     
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <div class="row remove-site-content-margin">
+
+    <h1 class="font-weight-bold spanborder"><span>News</span></h1>
     
     <!-- latest post -->
     {% assign news_posts = site.posts | where: "categories", "news" %}
@@ -135,7 +137,7 @@ permalink: "/news.html"
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
 {% for post in news_posts %} 
 {% if post.tags contains "sticky" %}
-<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-red position-relative">
+<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-light position-relative">
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
@@ -163,10 +165,13 @@ permalink: "/news.html"
    
     <div class="col-md-8 main-loop">
         
-        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+        <h4 class="font-weight-bold spanborder"><span>All News Stories</span></h4>
         
-
-        {% for post in news_posts %}
+        {% assign start_index = paginator.per_page | times: paginator.page | minus: paginator.per_page %}
+        {% assign end_index = paginator.per_page | times: paginator.page %}
+        {% assign paginator.news_posts = news_posts | slice: start_index, end_index %}
+        
+        {% for post in paginator.news_posts %}
         
             {% include main-loop-card.html %}
         
