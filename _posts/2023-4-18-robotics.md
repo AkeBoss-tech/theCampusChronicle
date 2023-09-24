@@ -3,7 +3,6 @@ layout: post
 title:  "Collaboration, Creativity, and Competition: The Thrilling World of the FIRST Robotics Competition"
 categories: [ Opinion ]
 image: assets/images/robo.JPG
-tags: [sticky]
 ---
 On April 19, the FIRST Robotics Competition’s (FRC) world championship kicked off in Houston, Texas. Hundreds of robotics teams flew to Houston from around the world to participate in this three-day competition to crown the FRC world champion. But before these teams could get to this point, they had to prove their robot’s worth in numerous district and regional competitions. Like any other sport, FRC requires teams to spend countless hours practicing and perfecting their craft, with many members spending over 10 hours a week with the team.
 
@@ -23,7 +22,8 @@ Participating in FRC can also be highly beneficial for students in terms of thei
 UCVTS has its own FRC team, Team 1257, Parallel Universe. This team provides the opportunity for the bright students of our district to compete with many large schools outside of Union County, almost like a sports team. With over a hundred members, the students from UCVTS run a fully functioning FRC team. The team not only teaches students applicable skills in the fields they want to pursue but also gives them the chance to meet new people from around UCVTS, throughout New Jersey, and around the world who have similar interests. Robotics competitions are high-energy, fast-paced events that are designed by FIRST to be engaging and exciting for participants and spectators alike. The sense of camaraderie and sportsmanship that is fostered at the competition is truly inspiring, and it is a testament to the positive impact that FRC is having on young people around the world. 
 
 You can be inspired as well by joining the UCVTS robotics team! 
-Google classroom code: xxyy5qz
+Google classroom code: [xxyy5qz](https://classroom.google.com/c/NTI3MzgyMjY3Njcw?cjc=xxyy5qz)
 
 Image Citation
+
 Team 1257. “End of the Autonomous Period in a Qualification Match.” Google Drive, 1 April 2023, [Image](https://drive.google.com/file/d/1drRAt5eendbfm3UKXmxzkPCIptsUVWIB/view?usp=sharing). Accessed 18 April 2023.

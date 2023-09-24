@@ -7,7 +7,7 @@
 	   {{ post.excerpt  | strip_html | strip_newlines | truncate: 186}}
 	</p>
 	<p>
-		By {{ site.authors[post.author].name }}, {{ site.authors[post.author].school }}
+		By {{ site.authors[post.author].name }}, {{ author.grade }} at {{ site.authors[post.author].school }}
 	</p>
 	<small class="d-block text-muted">
 		In <span class="catlist">

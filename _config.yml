@@ -27,6 +27,7 @@ authors:
       email:          wowthemesnet@gmail.com
       twitter:        https://twitter.com/wowthemesnet
       school:         AIT
+      grade:          Senior
 
     jane:
       name:           Jane
@@ -36,6 +37,7 @@ authors:
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
       school:         Magnet
+      grade:          Junior
  
 # Defaults
 defaults:
