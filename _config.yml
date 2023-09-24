@@ -26,6 +26,7 @@ authors:
       bio:            "Hi, I am Akash, the author of Mundana, the theme you're currently previewing. I hope you like it!"
       email:          wowthemesnet@gmail.com
       twitter:        https://twitter.com/wowthemesnet
+      school:         AIT
 
     jane:
       name:           Jane
@@ -34,6 +35,7 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
+      school:         Magnet
  
 # Defaults
 defaults:

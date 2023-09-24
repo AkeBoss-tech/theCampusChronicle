@@ -166,8 +166,14 @@ permalink: "/news.html"
         
         <h4 class="font-weight-bold spanborder"><span>All News Stories</span></h4>
         <!-- {% assign paginator.posts = news_posts %} -->
-        {% for post in news_posts %}
+        {% assign pages_list = tag[1] %}
+        {% for post in pages_list %}
+        {% if post.title != null %}
+          {% if group == null or group == post.group %}
+         
             {% include main-loop-card.html %}
+          {% endif %}
+        {% endif %}
         {% endfor %}
         
         <div class="mt-5">
