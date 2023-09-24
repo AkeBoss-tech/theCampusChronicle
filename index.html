@@ -32,6 +32,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
     </p>
     <div>
         <small class="d-block text-muted">
+            By {{ latest_post.name }}, {{ latest_post.grade }} at {{ latest_post.school }}<br>
             In <span class="catlist">
                 {% for category in latest_post.categories %}
                 <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
@@ -63,6 +64,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                     <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
+                        By {{ second_post.name }}, {{ second_post.grade }} at {{ second_post.school }}<br>
                         In <span class="catlist">
                         {% for category in second_post.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
@@ -90,6 +92,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                     <a class="text-dark" href="{{site.baseurl}}{{third_post.url}}">{{ third_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
+                        By {{ third_post.name }}, {{ third_post.grade }} at {{ third_post.school }}<br>
                         In <span class="catlist">
                         {% for category in third_post.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
@@ -117,6 +120,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                     <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
                     </h2>
                     <small class="d-block text-muted">
+                        By {{ fourth_post.name }}, {{ fourth_post.grade }} at {{ fourth_post.school }}<br>
                         In <span class="catlist">
                         {% for category in fourth_post.categories %}
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
@@ -136,7 +140,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
 {% for post in site.posts %} 
 {% if post.tags contains "sticky" %}
-<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
+<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-light position-relative">
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
