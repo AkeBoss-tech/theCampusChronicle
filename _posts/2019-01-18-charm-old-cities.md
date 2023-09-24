@@ -2,7 +2,7 @@
 layout: post
 title:  "Could we reinvent the charm of old cities"
 author: jane
-categories: [ Jekyll, news ]
+categories: [ Opinion, news ]
 image: assets/images/home.jpg
 tags: [sticky]
 ---

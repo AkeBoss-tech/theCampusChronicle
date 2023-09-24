@@ -165,14 +165,9 @@ permalink: "/news.html"
     <div class="col-md-8 main-loop">
         
         <h4 class="font-weight-bold spanborder"><span>All News Stories</span></h4>
-        
-        {% for post in paginator.posts %}
-            {% if post.categories contains "news" %}
-        
-                {% include main-loop-card.html %}
-            
-            {% endif %}
-        
+        <!-- {% assign paginator.posts = news_posts %} -->
+        {% for post in news_posts %}
+            {% include main-loop-card.html %}
         {% endfor %}
         
         <div class="mt-5">
