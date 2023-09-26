@@ -3,7 +3,7 @@ layout: post
 title:  "A Book Review sans Spoilers: Never Let Me Go by Kazuo Ishiguro"
 author: megan
 categories: [ Arts and Entertainment ]
-image: assets/images\a-book-review-sans-spoilers-never-let-me-go-by-kazuo-ishiguro.jpg
+image: assets/images/a-book-review-sans-spoilers-never-let-me-go-by-kazuo-ishiguro.jpg
 ---
 
  

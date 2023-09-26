@@ -3,7 +3,7 @@ layout: post
 title:  "Harry Styles: Redefining Masculinity"
 author: audrey
 categories: [ Arts and Entertainment ]
-image: assets/images\harry-styles-redefining-masculinity.png
+image: assets/images/harry-styles-redefining-masculinity.png
 ---
 
  

@@ -3,7 +3,7 @@ layout: post
 title:  "The Greatness of Breaking Bad"
 author: jaime
 categories: [ Trending Arts ]
-image: assets/images\the-greatness-of-breaking-bad.png
+image: assets/images/the-greatness-of-breaking-bad.png
 ---
 
 Editor's Disclaimer: Breaking Bad is rated TV-MA and is not suitable for all viewers. Viewer discretion is advised.

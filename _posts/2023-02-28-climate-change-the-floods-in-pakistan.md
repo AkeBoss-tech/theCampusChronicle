@@ -3,7 +3,7 @@ layout: post
 title:  "Climate Change: The Floods in Pakistan"
 author: ahmad
 categories: [ Trending Science ]
-image: assets/images\climate-change-the-floods-in-pakistan.png
+image: assets/images/climate-change-the-floods-in-pakistan.png
 ---
 
 Image: Pakistans flag (left) pictured next to a city submerged in water (right) 

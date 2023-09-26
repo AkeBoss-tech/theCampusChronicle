@@ -3,7 +3,7 @@ layout: post
 title:  "Why you Should Watch She-Ra and the Princesses of Power"
 author: mattia
 categories: [ Opinion ]
-image: assets/images\why-you-should-watch-she-ra-and-the-princesses-of-power.jpg
+image: assets/images/why-you-should-watch-she-ra-and-the-princesses-of-power.jpg
 ---
 
 This summer, I spent my quarantine indulging in as many childrens cartoons as I could justify watching as a seventeen-year-old on a borrowed Netflix account. My marathoning started with Avatar: The Last Airbender, which recently found a wave of new fans, including me, following its addition to the streaming platform. The show lives up to its reputation without a doubt  Avatar: The Last Airbender is highly acclaimed for its stellar representation of East Asian and Inuit cultures  but I did not find myself connecting to the characters in the way that other fans have. Outside of my vague attachment to Katara for her leadership and iron will, the shows characters did not fully resonate with me. 

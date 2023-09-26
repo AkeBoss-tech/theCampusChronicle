@@ -3,7 +3,7 @@ layout: post
 title:  "Hybrid vs. In-person Learning at UCVTS"
 author: maya
 categories: [ Science ]
-image: assets/images\hybrid-vs-in-person-learning-at-ucvts.jpg
+image: assets/images/hybrid-vs-in-person-learning-at-ucvts.jpg
 ---
 
 Covid-19 has undeniably hindered the normal operation of countless institutions many took for granted in previous years. The lockdown and reconfiguration of everyday events for people across the globe will surely leave a lasting impact. Undoubtedly, new high school learning formats are the most significant of the changes to affect average teenagers. 

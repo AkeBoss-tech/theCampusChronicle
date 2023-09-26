@@ -3,7 +3,7 @@ layout: post
 title:  "Eddie Van Halen Obituary"
 author: haralambos
 categories: [ Arts and Entertainment ]
-image: assets/images\eddie-van-halen-obituary.jpg
+image: assets/images/eddie-van-halen-obituary.jpg
 ---
 
 Virtuoso guitarist Eddie Van Halen passed away at the age of 65 on October 6, 2020. He played lead guitar in the 19th best selling group of all time; Van Halen. He was a wildly innovative player who influenced many of those who came after him and popularized the technique of two-handed tapping.

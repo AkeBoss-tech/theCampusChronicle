@@ -3,7 +3,7 @@ layout: post
 title:  "Misogyny in Everyday Life"
 author: sara
 categories: [ Trending Opinion ]
-image: assets/images\misogyny-in-everyday-life.jpg
+image: assets/images/misogyny-in-everyday-life.jpg
 ---
 
 If girls want to be treated equally, that means men wouldnt buy them expensive things.

@@ -3,7 +3,7 @@ layout: post
 title:  "Album review: After the Gold Rush by Neil young"
 author: haralambos
 categories: [ Arts and Entertainment ]
-image: assets/images\album-review-after-the-gold-rush-by-neil-young.jpg
+image: assets/images/album-review-after-the-gold-rush-by-neil-young.jpg
 ---
 
 Background 

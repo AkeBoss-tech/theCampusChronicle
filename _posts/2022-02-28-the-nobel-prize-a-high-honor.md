@@ -3,7 +3,7 @@ layout: post
 title:  "The Nobel Prize: A High Honor"
 author: shreya
 categories: [ News ]
-image: assets/images\the-nobel-prize-a-high-honor.jpg
+image: assets/images/the-nobel-prize-a-high-honor.jpg
 ---
 
 Arguably, the Nobel Prize is one of the most honorable awards a person can have. Nobel Prize laureates are given special privileges at certain places. For example, colleges give a free parking space to their Nobel laureates. In 2021, thirteen people have been awarded the Nobel Prize in their relevant category. The Nobel Prize has six categories; physics, chemistry, physiology or medicine, literature, economics, and peace.  Laureates get $1,135,384 as a recognition of their contribution(s) to society. In 2021, many of the awards were obtained by more than one person each, and in some cases, the money was split. 

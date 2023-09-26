@@ -3,7 +3,7 @@ layout: post
 title:  "Revolutionary Progress In Curing Alzheimers Disease"
 author: diya
 categories: [ News ]
-image: assets/images\revolutionary-progress-in-curing-alzheimers-disease.jpg
+image: assets/images/revolutionary-progress-in-curing-alzheimers-disease.jpg
 ---
 
 Scientists are creating history as they research further information on a cure to combat a fatal form of memory loss, Alzheimers diease, also known as senile dementia. Alzheimers disease occurs when brain cells and their electrical connections to each other are torn down by proteins in the brain, eventually leading to memory loss and the destruction of other significant mental operations. Since the brain controls all of the functions in the body, there are various ways that symptoms can present themselves, such as confusion, mental decline and jumbled speech. However, researchers are making progress in treating Alzhimers, and they have now come across new discoveries that can assist them in creating a cure. 

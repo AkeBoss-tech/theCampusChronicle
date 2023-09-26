@@ -3,7 +3,7 @@ layout: post
 title:  "Craziest Places on Earth That Look Fictional, But Arent!"
 author: sarah
 categories: [ News ]
-image: assets/images\craziest-places-on-earth-that-look-fictional-but-arent.png
+image: assets/images/craziest-places-on-earth-that-look-fictional-but-arent.png
 ---
 
 Seven continents, five oceans, 195 countries, 10,000 cities, and 7.8 billion people to see it all. There are hot, sandy deserts, bustling cities, rich and productive farmland, grassy fields of flowers that appear to go on forever, colorful rainforests teeming with life, and more. However, every now and again, there are certain places that just seem unreal, ethereal, as though theyre straight out of a sci-fi or fantasy movie, born from a miraculous feat of nature.  

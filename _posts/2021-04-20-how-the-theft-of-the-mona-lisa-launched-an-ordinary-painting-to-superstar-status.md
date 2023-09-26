@@ -3,7 +3,7 @@ layout: post
 title:  "How the Theft of the Mona Lisa Launched an Ordinary Painting to Superstar Status"
 author: ella
 categories: [ Arts and Entertainment ]
-image: assets/images\how-the-theft-of-the-mona-lisa-launched-an-ordinary-painting-to-superstar-status.jpg
+image: assets/images/how-the-theft-of-the-mona-lisa-launched-an-ordinary-painting-to-superstar-status.jpg
 ---
 
 More than half of the population has never even seen the Mona Lisa in real life, and yet, almost everyone recognizes her haunting eyes and mysterious smile.

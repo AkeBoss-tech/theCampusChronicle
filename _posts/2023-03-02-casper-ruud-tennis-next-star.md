@@ -3,7 +3,8 @@ layout: post
 title:  "Casper Ruud: Tennis Next Star"
 author: dylan
 categories: [ Trending Sports ]
-image: assets/images\casper-ruud-tennis-next-star.png
+image: assets/images/casper-ruud-tennis-next-star.png
+tags: [featured]
 ---
 
 For 18 years, three colossal names have dominated the world of mens tennis: Rafael Nadal, Novak Djokovic, and Roger Federer. The Big Three. You could ask anyone to name a tennis player, and more than half the time, theyd say one of those names. From 2004 to 2022, the Big Three won 63 out of a possible 75 Grand Slam titles. They lead the race of most Grand Slams won, with 22 for Rafael Nadal, 21 for Novak Djokovic, and 20 for Roger Federer, and theyre classed as not only three of the best tennis players, but also athletes of all time.

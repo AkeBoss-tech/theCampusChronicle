@@ -3,7 +3,7 @@ layout: post
 title:  "Track 5: Union Countys Favorite Cup O Joe"
 author: ana
 categories: [ Trending Opinion ]
-image: assets/images\track-5-union-countys-favorite-cup-o-joe.png
+image: assets/images/track-5-union-countys-favorite-cup-o-joe.png
 ---
 
 Editor's Note: This is not a promotion for one establishment. The Campus Chronicle encourages future coverage of many local businesses.

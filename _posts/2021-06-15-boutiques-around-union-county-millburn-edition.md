@@ -3,7 +3,7 @@ layout: post
 title:  "Boutiques around union county: Millburn edition"
 author: sara
 categories: [ Arts and Entertainment ]
-image: assets/images\boutiques-around-union-county-millburn-edition.png
+image: assets/images/boutiques-around-union-county-millburn-edition.png
 ---
 
  As a sequel to the previous edition about Westfield, this boutique article features Millburn and many of its lovely fashion spots. Today, well be reviewing five boutiques, including High Line Fashion, Via Roxy Shoes, Bungalow, Jia Boutique, and Marinas Treasures, all of which are located on Millburn Avenue. Without further ado, lets get into our boutiques!

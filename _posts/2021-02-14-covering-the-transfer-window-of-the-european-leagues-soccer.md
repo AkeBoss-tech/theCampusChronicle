@@ -3,7 +3,7 @@ layout: post
 title:  "Covering the Transfer Window of the European Leagues (Soccer)"
 author: dylan
 categories: [ Sports ]
-image: assets/images\covering-the-transfer-window-of-the-european-leagues-soccer.jpeg
+image: assets/images/covering-the-transfer-window-of-the-european-leagues-soccer.jpeg
 ---
 
 For those who dont know, the transfer window is a period of time when soccer clubs  from around the world are allowed to buy players from other clubs, either permanently or on loan. A permanent transfer is when the player moves to another club for good, whereas a loan occurs when the player is given away by its parent club temporarily, usually no longer than a year.  This year, the European transfer window ran from July 27 to October 5. In the English Premier League, multiple clubs massively reinforced their arsenal of players.

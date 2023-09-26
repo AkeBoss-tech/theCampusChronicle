@@ -3,7 +3,7 @@ layout: post
 title:  "Dont Burn Out In High School!"
 author: saniya
 categories: [ Opinion ]
-image: assets/images\dont-burn-out-in-high-school.jpg
+image: assets/images/dont-burn-out-in-high-school.jpg
 ---
 
 Ah, the great burnout  a situation every student goes through at least once in his or her lifetime. It is a time of immense stress, helplessness, and frustration. High school is one of the greatest stress producers for teenagers, as it introduces a ruthless workload, advanced subjects, and many difficult exams. According to Astrid Eira, author of the article 32 Student Stress Statistics 2020, seventy five percent of high schoolers and fifty percent of middle schoolers described themselves as often or always feeling stressed by schoolwork. These high numbers are not going down anytime soon, which is why it is essential for students to learn how to start caring for themselves. 

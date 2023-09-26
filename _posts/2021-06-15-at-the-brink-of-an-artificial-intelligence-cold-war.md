@@ -3,7 +3,7 @@ layout: post
 title:  "At the brink of an Artificial intelligence cold war"
 author: maya
 categories: [ News ]
-image: assets/images\at-the-brink-of-an-artificial-intelligence-cold-war.png
+image: assets/images/at-the-brink-of-an-artificial-intelligence-cold-war.png
 ---
 
 For decades, technological leaders have touted artificial intelligence (AI) as a social and economic boon capable of solving the world's worst calamities. These benefits, however, come with their fair share of disastrous possibilities. Namely, mass unemployment, a widening wealth gap between developed and developing countries, and the potential for a cold war. The unrestricted advancement of artificial intelligence has the potential to lead to disagreement between the two leading AI nations, America and China, and an AI-fueled conflict between the world's superpowers could devastate entire nations. The question remains: how likely is this conflict?

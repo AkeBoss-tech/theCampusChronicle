@@ -3,7 +3,7 @@ layout: post
 title:  "Everything You Need to Know About Among Us"
 author: 
 categories: [ Opinion ]
-image: assets/images\everything-you-need-to-know-about-among-us.jpg
+image: assets/images/everything-you-need-to-know-about-among-us.jpg
 ---
 
 Youve probably heard about an online game Among Us. If you havent, heres a complete guide to Among Us so youll understand all the memes. This guide will include a general overview and tutorial of the game, rumors of upcoming updates to the game and different game modes to play with your friends. It will also feature some recent news about the game, including New York politician Alexandra Ocasio-Cortez livestreaming herself playing and a famous hacker, known as Eris Loris, taking over Among Us servers.

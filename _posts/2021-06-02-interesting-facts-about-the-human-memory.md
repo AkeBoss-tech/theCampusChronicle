@@ -3,7 +3,7 @@ layout: post
 title:  "Interesting Facts About the Human Memory"
 author: laura
 categories: [ News ]
-image: assets/images\interesting-facts-about-the-human-memory.jpg
+image: assets/images/interesting-facts-about-the-human-memory.jpg
 ---
 
 There are three types of memory: sensory, short-term/working, and long-term memory. Within long-term memory are subcategories. Episodic memory recalls specific events; semantic memory processes ideas and concepts unrelated to personal experience; procedural memory guides the processes we unconsciously perform, and priming links our memories to a stimulus. Studies of these various types of memory indicate that spaced or distributive practice, in which an individual studies for short periods of time over spaced out intervals, is more efficient for long-term retention than its counterpart, massed practice, in which an individual studies information for a long period without rest. Additionally, memories can also be lost or changed. For instance, retroactive interference occurs when new information blocks or interrupts retrieval of older information. Proactive interference occurs when old, previously learned memories interfere with the recollection of new memories.The human brain has countless abilities, so understanding how your brain works and maintaining a healthy lifestyle, mentally and physically, is as beneficial for improving memory as it is for the rest of the body. 

@@ -3,7 +3,7 @@ layout: post
 title:  "Concert Review: The Regrettes at Bowery Ballroom"
 author: chloe
 categories: [ Arts and Entertainment ]
-image: assets/images\concert-review-the-regrettes-at-bowery-ballroom.png
+image: assets/images/concert-review-the-regrettes-at-bowery-ballroom.png
 ---
 
 Punk rockers The Regrettes performed a sold out show at Bowery Ballroom on October 3rd. Fans began queuing at 1:30 on the cold, rainy afternoon with frontwoman Lydia Nights signature eyeliner hearts drawn on their faces. I recognized some of them from Twitters small, but mighty, Regrettes fan-base. The energy was high on the chilly streets of Brooklyn and lasted even after Night had stepped off the stage.   

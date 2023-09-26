@@ -3,7 +3,7 @@ layout: post
 title:  "Exercise During the Quarantine: Its Importance and How to Implement It in Your Own Life"
 author: monica
 categories: [ Science ]
-image: assets/images\exercise-during-the-quarantine-its-importance-and-how-to-implement-it-in-your-own-life.jpg
+image: assets/images/exercise-during-the-quarantine-its-importance-and-how-to-implement-it-in-your-own-life.jpg
 ---
 
 As the COVID-19 pandemic approaches its one year anniversary, entire populations across the globe have been following lockdown and social distancing measures. Whether that means working from home or attending online school, many have spent long hours sitting in front of electronic devices. By extension, exercise and general movement has been drastically limited.

@@ -3,7 +3,7 @@ layout: post
 title:  "Why You Should Watch the Marvel Movies"
 author: victoria
 categories: [ Arts and Entertainment ]
-image: assets/images\why-you-should-watch-the-marvel-movies.jpg
+image: assets/images/why-you-should-watch-the-marvel-movies.jpg
 ---
 
 Over the past decade, Marvel movies have dominated the box office and amassed millions of fans worldwide. Most moviegoers already have an impression of the franchise. Nevertheless, if you havent seen the movies yourself, there are plenty of reasons to give them a chance. Although these films may not be peak screenplay or cinematography, they receive enough acclaim to continue shattering records. Admittedly, the twenty-three movies in the franchise are created unequally, but as with all things, choosing a favorite is a matter of personal preference. Regardless of which Marvel movie you prefer, the rest contain at least one aspect that will leave you wanting more.

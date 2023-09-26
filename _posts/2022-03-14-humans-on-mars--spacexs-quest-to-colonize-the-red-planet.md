@@ -3,7 +3,7 @@ layout: post
 title:  "Humans on Mars | SpaceXs Quest to Colonize the Red Planet"
 author: dylan
 categories: [ News ]
-image: assets/images\humans-on-mars--spacexs-quest-to-colonize-the-red-planet.jpg
+image: assets/images/humans-on-mars--spacexs-quest-to-colonize-the-red-planet.jpg
 ---
 
  

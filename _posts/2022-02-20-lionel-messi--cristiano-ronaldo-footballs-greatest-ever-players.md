@@ -3,7 +3,7 @@ layout: post
 title:  "Lionel Messi & Cristiano Ronaldo: Football's Greatest Ever Players"
 author: dylan
 categories: [ Sports ]
-image: assets/images\lionel-messi--cristiano-ronaldo-footballs-greatest-ever-players.png
+image: assets/images/lionel-messi--cristiano-ronaldo-footballs-greatest-ever-players.png
 ---
 
 	Even if you dont watch professional soccer games, theres a 95% chance that youll recognize either the name of Lionel Messi or Cristiano Ronaldo. And theres good reason behind that; widely labeled as two of the greatest ever soccer players by pundits, former players, rival fans and much much more. But why are they known so well? And how have they changed the sport, forever? 

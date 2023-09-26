@@ -3,7 +3,7 @@ layout: post
 title:  "Open Letter Submission"
 author: anonymous
 categories: [ Opinion ]
-image: assets/images\open-letter-submission.jpeg
+image: assets/images/open-letter-submission.jpeg
 ---
 
 To the UCVTS underclassmen,

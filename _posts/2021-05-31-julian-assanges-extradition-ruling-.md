@@ -3,7 +3,7 @@ layout: post
 title:  "Julian Assange's Extradition Ruling "
 author: daivya
 categories: [ News ]
-image: assets/images\julian-assanges-extradition-ruling-.png
+image: assets/images/julian-assanges-extradition-ruling-.png
 ---
 
 On Monday, January 4th, 2021, a British judge rejected an American request to extradite WikiLeaks founder, Julian Assange, to the United States, declaring that this would be a concern for his mental health. Wikileaks is an international organization which publishes news leaks and confidential information given by anonymous people. Its founder, a 49-year-old Australian, is charged with hacking US government computers and violating the US Espionage Act in 2010 and 2011, by publishing hundreds of thousands of confidential documents and diplomatic cables about the Iraq and Afghanistan wars. Since he released documents that provide evidence of US war crimes and human rights abuse, Assanges lawyers state that his prosecution is politically motivated. 

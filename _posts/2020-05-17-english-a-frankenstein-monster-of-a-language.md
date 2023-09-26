@@ -3,7 +3,7 @@ layout: post
 title:  "English, A Frankenstein Monster of a Language"
 author: joe
 categories: [ News ]
-image: assets/images\english-a-frankenstein-monster-of-a-language.png
+image: assets/images/english-a-frankenstein-monster-of-a-language.png
 ---
 
  

@@ -3,7 +3,8 @@ layout: post
 title:  "ChatGPT's Meteoric Rise: What Does the Future of Communication Look Like?"
 author: sophia
 categories: [ News ]
-image: assets/images\chatgpts-meteoric-rise-what-does-the-future-of-communication-look-like.png
+image: assets/images/chatgpts-meteoric-rise-what-does-the-future-of-communication-look-like.png
+tags: [featured]
 ---
 
 Imagine a world where language is no longer a barrier, where AI-powered chatbots can communicate with humans seamlessly, and where every idea and emotion can be expressed in the most eloquent of terms. While the meteoric rise of ChatGPT is bringing us closer to that future, it's also raising questions about the impact of AI on human communication. 

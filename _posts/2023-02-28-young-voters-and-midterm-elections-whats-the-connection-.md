@@ -3,7 +3,7 @@ layout: post
 title:  "Young Voters and Midterm Elections: Whats the Connection? "
 author: haley
 categories: [ Trending Features ]
-image: assets/images\young-voters-and-midterm-elections-whats-the-connection-.png
+image: assets/images/young-voters-and-midterm-elections-whats-the-connection-.png
 ---
 
 Over the past three months, political ads have flooded the media, whether it was via YouTube, the evening news, or even pop-up ads, signifying the arrival of midterms. Tuesday, November 8, 2022, marked the midterm elections for numerous officeholders, with most candidates having started their campaigns months in advance. Midterm elections happen two years in between the quadrennial presidential elections, in which different members of Congress must run for re-election at the end of their terms. Due to the House of Representatives and the Senate having different term lengthstwo and six years, respectivelymembers of both chambers run during midterms. However, only thirty-five seats in the Senate are up for election due to the longer term lengths. The results of these elections determine the political makeup of both chambers, which can be the deciding point for the following two years legislative agenda.  

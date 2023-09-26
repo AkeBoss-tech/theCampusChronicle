@@ -3,7 +3,7 @@ layout: post
 title:  "The Fashion Industrys Not-So-Secret Impact"
 author: mila
 categories: [ Trending Features ]
-image: assets/images\the-fashion-industrys-not-so-secret-impact.png
+image: assets/images/the-fashion-industrys-not-so-secret-impact.png
 ---
 
 When thinking about industries that contribute the most carbon emissions, the oil and fossil fuel industry usually comes to mind. The fashion industry, however, is an unexpected runner up when it comes to global carbon emissions. Although most dont realize it, the fashion industry has disastrous effects on the environment via carbon emissions, wastewater, and textile production. With the help of its overwhelming number of shopping-addicted consumers, the fashion industrys environmental impact is steadily intensifying. 

@@ -3,7 +3,7 @@ layout: post
 title:  "The Staggering Decline in Marvel's Cinematic Universe"
 author: omolola
 categories: [ Trending Arts ]
-image: assets/images\the-staggering-decline-in-marvels-cinematic-universe.webp
+image: assets/images/the-staggering-decline-in-marvels-cinematic-universe.webp
 ---
 
 Since 2008 with the movie adaptation of the comic book character Iron Man, Marvel has provided us with timeless live-action films. However, it seems as if Marvels charm has started to wear off within Phase 4 of Marvel. A clear sign of this can easily be noticed with one glance at the box office, with The Eternals (one of the first big marvel movies after Avengers Endgame) becoming the second-lowest-grossing film in the MCU. Along with Thor Love and Thunder having a 69% on Rotten Tomatoes and being critically bashed online. That begs the question, why exactly have Marvel movies been performing so poorly? 

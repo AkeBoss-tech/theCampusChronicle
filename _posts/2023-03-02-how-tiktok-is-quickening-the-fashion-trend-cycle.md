@@ -3,7 +3,7 @@ layout: post
 title:  "How TikTok is Quickening the Fashion Trend Cycle"
 author: gissele
 categories: [ Arts and Entertainment ]
-image: assets/images\how-tiktok-is-quickening-the-fashion-trend-cycle.png
+image: assets/images/how-tiktok-is-quickening-the-fashion-trend-cycle.png
 ---
 
 Ever since TikTok blew up back in 2020, it has impacted our everyday lives greatly,  especially in the way we dress. Even starting the hashtag #TikTokMadeMeBuyIt with thirty-one billion views. Most fashion trends start on TikTok and usually end there too. Taking a look at how fast Tiktok media is consumed,the trends from a year ago are completely different to the trends of today. Before the rise of Tiktok, an internet trend would have lasted around three to five years. However, with the rise of fast fashion companies such as Shein, most fashion trends last a few months or even a few weeks. 

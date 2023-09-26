@@ -3,7 +3,7 @@ layout: post
 title:  "Scandal that broke the national women's soccer league"
 author: audrey
 categories: [ Sports ]
-image: assets/images\scandal-that-broke-the-national-womens-soccer-league.jpg
+image: assets/images/scandal-that-broke-the-national-womens-soccer-league.jpg
 ---
 
  

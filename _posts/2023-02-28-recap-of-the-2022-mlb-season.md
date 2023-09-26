@@ -3,7 +3,7 @@ layout: post
 title:  "Recap of the 2022 MLB Season"
 author: eric
 categories: [ Trending Sports ]
-image: assets/images\recap-of-the-2022-mlb-season.jpg
+image: assets/images/recap-of-the-2022-mlb-season.jpg
 ---
 
 The 2022 Major League Baseball season, a season with lots of ups and downs, historic moments, and excitement. 

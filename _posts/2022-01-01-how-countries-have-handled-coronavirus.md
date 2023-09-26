@@ -3,7 +3,7 @@ layout: post
 title:  "How Countries Have Handled Coronavirus"
 author: shreya
 categories: [ Science ]
-image: assets/images\how-countries-have-handled-coronavirus.jpg
+image: assets/images/how-countries-have-handled-coronavirus.jpg
 ---
 
 	Coronavirus-2019 has been a hot topic for journalists ever since it appeared in Wuhan, China. Since then, COVID-19 has hit almost every country in the world, earning the title, pandemic. Even though the same virus has affected countries worldwide, the virus effects have not been shared equally. Its fair to assume that most people have been touched by the consequences of the pandemic, whether they were forced to switch to remote learning, saw the death of loved ones, or lost their jobs, surviving on unemployment and stimulus checks. While students in the United States are anticipating a return to normal schooling, their peers in other countries such as Haiti and Costa Rica, are already receiving full in-person instruction on a daily basis. On the other side of the spectrum, students in the Dominican Republic and Honduras still have not been given a hybrid option like the one offered to many American students. 

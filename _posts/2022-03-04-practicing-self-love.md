@@ -3,7 +3,7 @@ layout: post
 title:  "Practicing self-love"
 author: 
 categories: [ Opinion ]
-image: assets/images\practicing-self-love.jpg
+image: assets/images/practicing-self-love.jpg
 ---
 
 Before I begin with my story about self-love, I must explain that self-love is not a journey nor a status that you can reach. Self-love is a practice in which you should try to engage every day. Like a sport, you improve as you continue. When I was younger, I never thought much about what other people thought of me. I was only trying to have fun as any little kid would. As I grew up, so did my body and my perception of it. Despite my love of fashion, I rarely liked the girl I saw looking back in the mirror. With help from friends, role models, and most importantly, myself, I began to learn my worth as a human being. 

@@ -3,7 +3,7 @@ layout: post
 title:  "How a Person's Outlook on Death Affects Their Outlook on Life"
 author: alan
 categories: [ Opinion ]
-image: assets/images\how-a-person's-outlook-on-death-affects-their-outlook-on-life.jpg
+image: assets/images/how-a-person's-outlook-on-death-affects-their-outlook-on-life.jpg
 ---
 
 The mystery of what happens when life ends has been on my mind for some time. To be honest, Im not so sure why this issue comes up, but I assume that it has something to do with the constant reminders of death in the news. Curiosity surrounding death what happens to people once our hearts stop beating and our lungs stop breathing has been explored since the advent of mankind. The fear of the unknown fuels the brain to want to know everything it can, and I believe that death, this inevitable experience, is universally considered. Death acts as a boundary to life, pulling us out of our mortal existence. Some people fear it, some accept it, and others view it as a reminder of how short our time on this planet truly is on a cosmic scale. Nobody knows what happens after death, as nobody has even returned. However, I am inclined to believe that the way a person views death has a direct impact on how one lives ones life. 

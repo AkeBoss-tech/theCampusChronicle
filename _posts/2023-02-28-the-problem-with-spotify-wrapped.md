@@ -3,7 +3,7 @@ layout: post
 title:  "The Problem with Spotify Wrapped"
 author: sophia
 categories: [ Arts and Entertainment ]
-image: assets/images\the-problem-with-spotify-wrapped.png
+image: assets/images/the-problem-with-spotify-wrapped.png
 ---
 
 In December, there are a multitude of festivities to round out the year, like Christmas, Hanukkah, and  New Years Eve. For avid music fans, theres another event to look forward to  Spotify Wrapped. 

@@ -3,7 +3,7 @@ layout: post
 title:  "Why Rising Gas Prices are Important"
 author: maya
 categories: [ News ]
-image: assets/images\why-rising-gas-prices-are-important.jpg
+image: assets/images/why-rising-gas-prices-are-important.jpg
 ---
 
 As the Ukrainian conflict unfolds and the Covid-19 pandemic ensues, rising gas prices have become a frequent topic of conversation. The ban on Russian oil exacerbated already increasing gas prices because of supply and demand imbalances after the Covid-19 lockdown ended. Problematically, according to Mike Patton, a senior contributor at Forbes between March 4, 2021 and March 4, 2022, the price of oil has risen 58%, and the retail gas price has risen 24%. Steps have been taken by the government to ease the burden of these rising prices. For example, President Biden has tapped into the nations Strategic Petroleum Reserve with the intention of lowering gas prices. Nonetheless, the cost of gas continues to rise. 

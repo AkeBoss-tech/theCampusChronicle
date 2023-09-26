@@ -3,7 +3,7 @@ layout: post
 title:  "Opinion: The Decline of the Grammys"
 author: victoria
 categories: [ Arts and Entertainment ]
-image: assets/images\opinion-the-decline-of-the-grammys.jpg
+image: assets/images/opinion-the-decline-of-the-grammys.jpg
 ---
 
 When you hear the Grammys, you likely think of the most prestigious award that a musical artist can receive. Every aspiring musician longs to win a Grammy for his or her music. As with all award shows, there is always resistance and controversy about nominations and winners. In recent years, the Grammys has been getting hate from artists, fans, and even from people within their organization. With our changing society, the Grammys has fallen behind and will need to change their ways to keep the program alive.

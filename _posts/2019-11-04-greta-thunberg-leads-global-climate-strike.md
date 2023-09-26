@@ -3,7 +3,7 @@ layout: post
 title:  "Greta Thunberg Leads Global Climate Strike"
 author: maya
 categories: [ News ]
-image: assets/images\greta-thunberg-leads-global-climate-strike.jpg
+image: assets/images/greta-thunberg-leads-global-climate-strike.jpg
 ---
 
  

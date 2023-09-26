@@ -3,7 +3,7 @@ layout: post
 title:  "Your Brain on the Holidays"
 author: anusha
 categories: [ Opinion ]
-image: assets/images\your-brain-on-the-holidays.jpg
+image: assets/images/your-brain-on-the-holidays.jpg
 ---
 
 With the kids jingle-belling and everyone telling you, be of good cheer, is the holiday season really the happiest season of all?

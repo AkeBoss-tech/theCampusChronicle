@@ -3,7 +3,7 @@ layout: post
 title:  "Grey's Anatomy: How is It Still Running?"
 author: ernest
 categories: [ Arts and Entertainment ]
-image: assets/images\greys-anatomy-how-is-it-still-running.jpg
+image: assets/images/greys-anatomy-how-is-it-still-running.jpg
 ---
 
 Over the past 16 years, ABCs Greys Anatomy has become one of the most iconic shows to ever appear on television. Whether you have only heard about the shows tumultuous plot and twists from friends or have rewatched the show more times than you can count, there is no denying the overwhelming success of the surgical drama. In total, the series has won about 50 academy awards since its premiere in 2005 and has received an even greater number of nominations. Even after 16 seasons of Greys Anatomy, countless surgeons entering and exiting the operating room, fans are still hooked as the shows 17th season unfolds.

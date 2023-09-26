@@ -3,7 +3,7 @@ layout: post
 title:  "Modern Rejection of the Gender Binary"
 author: alondra
 categories: [ Opinion ]
-image: assets/images\modern-rejection-of-the-gender-binary.png
+image: assets/images/modern-rejection-of-the-gender-binary.png
 ---
 
 Daily life is plagued by all sorts of innovations which, at times, can mask the lack of societal progress over the last couple of centuries. Our society remains white, male-dominated and those disadvantaged by the patriarchy struggle in their attempts to overcome it. The effects of imperialism have globally popularized western standards including a fixation with the gender binary. 

@@ -3,7 +3,7 @@ layout: post
 title:  "Open Veins of Latin America: Yea or Nay Book Review"
 author: alondra
 categories: [ Opinion ]
-image: assets/images\open-veins-of-latin-america-yea-or-nay-book-review.png
+image: assets/images/open-veins-of-latin-america-yea-or-nay-book-review.png
 ---
 
 In Open Veins of Latin America: Five Centuries of the Pillage of a Continent, Uruguayan best-selling author Eduardo Galeano dissects the historic exploitation of Latin America. This book was brought to my attention through friends who sought to connect with their Latin roots. Being a Latinx woman living in the United States, I too felt disconnected from my heritage, and reading Open Veins of Latin America helped me fathom my ancestors' plight. In about 300 pages, Galeano encompasses one of the most tragic genocides in the entirety of world history. This book, commonly regarded as patriotic in Latinx nations, carries the sorrows of the conquered. Galeanos radical ideas perfectly explained how 20th century Latin Americas unremitting attempts at regime change were caused by a wave of Latinx youth seeking to reverse poverty and other issues their countries faced.

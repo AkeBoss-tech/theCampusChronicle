@@ -3,7 +3,7 @@ layout: post
 title:  "Fast Fashion & Better Alternatives "
 author: kaitlyn
 categories: [ Opinion ]
-image: assets/images\fast-fashion--better-alternatives-.png
+image: assets/images/fast-fashion--better-alternatives-.png
 ---
 
 What is Fast Fashion? 

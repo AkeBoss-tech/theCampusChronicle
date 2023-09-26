@@ -3,7 +3,7 @@ layout: post
 title:  "A Controversial Fight Between Two Controversial Youtubers: Logan Paul vs KSI II"
 author: alan
 categories: [ Sports ]
-image: assets/images\a-controversial-fight-between-two-controversial-youtubers-logan-paul-vs-ksi-ii.jpg
+image: assets/images/a-controversial-fight-between-two-controversial-youtubers-logan-paul-vs-ksi-ii.jpg
 ---
 
 It all started on Feb. 3, 2018 when famous Youtuber Olajide William Olatunji, more commonly known as KSI, fought Youtuber Joe Weller in an amateur boxing match at the Copper Box Arena in London, England. After defeating Weller in the third round by a technical knockout, KSI called out the Paul brothers Jake and Logan, two internet personalities known for their Youtube vlogs and funny skits. 

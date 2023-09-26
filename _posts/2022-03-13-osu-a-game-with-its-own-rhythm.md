@@ -3,7 +3,7 @@ layout: post
 title:  "Osu!: A Game With its own Rhythm"
 author: rebecca
 categories: [ Arts and Entertainment ]
-image: assets/images\osu-a-game-with-its-own-rhythm.png
+image: assets/images/osu-a-game-with-its-own-rhythm.png
 ---
 
 Its been a long day, and you have just arrived home. You sit down at your computer, finally relaxing, and turn it on. You click on the little pink circle icon that has become so familiar to you over the last few months and prepare to spend the next few hours destroying your hands in a feeble attempt to chase rhythm. The application opens and says to you, Welcome to Osu!

@@ -3,7 +3,7 @@ layout: post
 title:  "The Science Behind the Shot: How Vaccines Work"
 author: akwele
 categories: [ Science ]
-image: assets/images\the-science-behind-the-shot-how-vaccines-work.png
+image: assets/images/the-science-behind-the-shot-how-vaccines-work.png
 ---
 
 A COVID-19 vaccine is necessary to boost the global effort to end the ongoing pandemic. A safe, effective and accessible vaccine for the disease will bring the world one step closer to defeating the SARS-CoV-2 virus. Vaccines work by imitating infections without causing disease. Once a vaccine is introduced to a human body, the immune system learns how to fight off certain pathogens by responding to them. Vaccines prevent dangerous diseases, lessen the severity of illnesses and save lives. Also, all of the vaccines currently available are safe and effective. Most people know what vaccines do, but it is also good to know how they interact with the immune system.

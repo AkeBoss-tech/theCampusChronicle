@@ -3,7 +3,7 @@ layout: post
 title:  "Album Review: Nectar by Joji"
 author: gregory
 categories: [ Arts and Entertainment ]
-image: assets/images\album-review-nectar-by-joji.png
+image: assets/images/album-review-nectar-by-joji.png
 ---
 
 Filthy Frank. George Miller. Japanese-American singer and ex-Youtube star Joji has lived almost three lives with these three names. His unique career path has led him from eating toenails for Youtube subscribers to being featured in legendary journalist and respected music critic Gregory Martinezs album review. Jojis highly anticipated sophomore album Nectar was released September 25, 2020, after a two month delay due to the COVID-19 pandemic. Charting in many countries, the album was well received by professional critics and the general public. But how will it fare against a high school students scrutinous eye?

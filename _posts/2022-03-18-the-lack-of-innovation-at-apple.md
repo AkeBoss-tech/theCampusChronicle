@@ -3,7 +3,7 @@ layout: post
 title:  "The Lack of Innovation at Apple"
 author: alan
 categories: [ Opinion ]
-image: assets/images\the-lack-of-innovation-at-apple.jpg
+image: assets/images/the-lack-of-innovation-at-apple.jpg
 ---
 
 Ten years ago, the world grieved the loss of a man who many consider to be one of the most important visionaries in history. Steve Jobs, the founder of Apple and inventor of many different technologies including the iPhone, iPad, and Macintosh computer, was known as one of the greatest innovators in the technological world. His ideas and the products that he came up with were always unique and groundbreaking. His slogan for Apple, Think Different, truly represented himself, his visions, his company.

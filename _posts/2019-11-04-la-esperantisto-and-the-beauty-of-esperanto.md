@@ -3,7 +3,7 @@ layout: post
 title:  "La Esperantisto and the Beauty of Esperanto"
 author: justin
 categories: [ News ]
-image: assets/images\la-esperantisto-and-the-beauty-of-esperanto.jpg
+image: assets/images/la-esperantisto-and-the-beauty-of-esperanto.jpg
 ---
 
  

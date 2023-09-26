@@ -3,7 +3,7 @@ layout: post
 title:  "Behind the Curtain: A Sneak Peak at the Process of Bringing a Play to Life"
 author: lilly
 categories: [ Arts and Entertainment ]
-image: assets/images\behind-the-curtain-a-sneak-peak-at-the-process-of-bringing-a-play-to-life.jpg
+image: assets/images/behind-the-curtain-a-sneak-peak-at-the-process-of-bringing-a-play-to-life.jpg
 ---
 
 Most people outside of the performing arts world do not know what is actually needed to perform a show and get it on its feet. To start at the very beginning, a show requires a director, stage managers, and a cast. After that, the cast starts the process well-known as rehearsals. In this stage of production, lines are memorized, while directors and stage managers position or block actors, deciding where the characters should stand while lines are delivered. 

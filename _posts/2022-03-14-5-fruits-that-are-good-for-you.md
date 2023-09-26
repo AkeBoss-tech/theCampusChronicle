@@ -3,7 +3,7 @@ layout: post
 title:  "5 Fruits That Are Good For You!"
 author: ivy
 categories: [ Trending Science ]
-image: assets/images\5-fruits-that-are-good-for-you.jpg
+image: assets/images/5-fruits-that-are-good-for-you.jpg
 ---
 
 Many fruits are beneficial to the health of human beings. With the overwhelmingly large variety of fruit known to the world today, it can be a struggle to choose the best fruit for your taste. Here are five highly nutritious fruits that are also appetizing!

@@ -3,7 +3,7 @@ layout: post
 title:  "Restaurant Reviews Around Union County"
 author: rachel
 categories: [ Opinion ]
-image: assets/images\restaurant-reviews-around-union-county.png
+image: assets/images/restaurant-reviews-around-union-county.png
 ---
 
 Echo Tap and Grille is a relatively new but popular establishment in Mountainside. The restaurant has partnerships with Grubhub and Doordash, two delivery services that have become more in demand since COVID 19 restrictions limited in-door dining. 
